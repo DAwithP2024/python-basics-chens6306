@@ -10,6 +10,7 @@ products = {
         ("Printer", 120),
         ("USB Drive", 15)
     ],
+    
     "Electronics": [
         ("Smart TV", 800),
         ("Bluetooth Speaker", 120),
